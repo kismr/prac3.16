@@ -1,0 +1,25 @@
+body.a {
+    background-color: lightblue;
+}
+
+nav.a {
+    font-size: 100px;
+    display: inline-block;
+}
+
+nav.b {
+    font-size: 40px;
+    color: blue;
+    display: inline-block;
+}
+
+nav.base {
+    font-size: 21px;
+    display: inline-block;
+}
+
+a
+
+p.a::first-line {
+    color: red;
+}
