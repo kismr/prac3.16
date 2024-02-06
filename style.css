@@ -18,8 +18,27 @@ nav.base {
     display: inline-block;
 }
 
-a
+a.a:link {
+    text-decoration: none;
+    color: blue;
+}
+
+a.a:hover {
+    text-decoration: none;
+    color: red;
+    background-color: yellow;
+}
 
 p.a::first-line {
     color: red;
+}
+
+a.b:link {
+    background-color: blue;
+    color: white;
+}
+
+a.b:visited {
+    background-color: white;
+    color: blue;
 }
