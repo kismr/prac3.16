@@ -42,3 +42,9 @@ a.b:visited {
     background-color: white;
     color: blue;
 }
+
+img {
+    position: relative;
+    top: -220px;
+    left: 330px;
+}
